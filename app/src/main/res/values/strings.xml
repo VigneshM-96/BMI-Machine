@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Machine</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://bmimachinesite.com/.well-known/assetlinks.json\" }]</string>
+</resources>
