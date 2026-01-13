@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(MainActivity.this, BMIActivity.class);
             startActivity(intent);
         });
-        //recent update
+        //recent update 3
     }
 
 }
